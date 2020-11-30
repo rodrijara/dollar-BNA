@@ -1,0 +1,408 @@
+{
+  "build": "py39h2125817_2",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "libffi >=3.3,<3.4.0a0",
+    "pycparser",
+    "python >=3.9,<3.10.0a0"
+  ],
+  "extracted_package_dir": "/Users/rjara/miniconda3/pkgs/cffi-1.14.3-py39h2125817_2",
+  "features": "",
+  "files": [
+    "lib/python3.9/site-packages/_cffi_backend.cpython-39-darwin.so",
+    "lib/python3.9/site-packages/cffi-1.14.3.dist-info/INSTALLER",
+    "lib/python3.9/site-packages/cffi-1.14.3.dist-info/LICENSE",
+    "lib/python3.9/site-packages/cffi-1.14.3.dist-info/METADATA",
+    "lib/python3.9/site-packages/cffi-1.14.3.dist-info/RECORD",
+    "lib/python3.9/site-packages/cffi-1.14.3.dist-info/REQUESTED",
+    "lib/python3.9/site-packages/cffi-1.14.3.dist-info/WHEEL",
+    "lib/python3.9/site-packages/cffi-1.14.3.dist-info/direct_url.json",
+    "lib/python3.9/site-packages/cffi-1.14.3.dist-info/entry_points.txt",
+    "lib/python3.9/site-packages/cffi-1.14.3.dist-info/top_level.txt",
+    "lib/python3.9/site-packages/cffi/__init__.py",
+    "lib/python3.9/site-packages/cffi/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/cffi/__pycache__/api.cpython-39.pyc",
+    "lib/python3.9/site-packages/cffi/__pycache__/backend_ctypes.cpython-39.pyc",
+    "lib/python3.9/site-packages/cffi/__pycache__/cffi_opcode.cpython-39.pyc",
+    "lib/python3.9/site-packages/cffi/__pycache__/commontypes.cpython-39.pyc",
+    "lib/python3.9/site-packages/cffi/__pycache__/cparser.cpython-39.pyc",
+    "lib/python3.9/site-packages/cffi/__pycache__/error.cpython-39.pyc",
+    "lib/python3.9/site-packages/cffi/__pycache__/ffiplatform.cpython-39.pyc",
+    "lib/python3.9/site-packages/cffi/__pycache__/lock.cpython-39.pyc",
+    "lib/python3.9/site-packages/cffi/__pycache__/model.cpython-39.pyc",
+    "lib/python3.9/site-packages/cffi/__pycache__/pkgconfig.cpython-39.pyc",
+    "lib/python3.9/site-packages/cffi/__pycache__/recompiler.cpython-39.pyc",
+    "lib/python3.9/site-packages/cffi/__pycache__/setuptools_ext.cpython-39.pyc",
+    "lib/python3.9/site-packages/cffi/__pycache__/vengine_cpy.cpython-39.pyc",
+    "lib/python3.9/site-packages/cffi/__pycache__/vengine_gen.cpython-39.pyc",
+    "lib/python3.9/site-packages/cffi/__pycache__/verifier.cpython-39.pyc",
+    "lib/python3.9/site-packages/cffi/_cffi_errors.h",
+    "lib/python3.9/site-packages/cffi/_cffi_include.h",
+    "lib/python3.9/site-packages/cffi/_embedding.h",
+    "lib/python3.9/site-packages/cffi/api.py",
+    "lib/python3.9/site-packages/cffi/backend_ctypes.py",
+    "lib/python3.9/site-packages/cffi/cffi_opcode.py",
+    "lib/python3.9/site-packages/cffi/commontypes.py",
+    "lib/python3.9/site-packages/cffi/cparser.py",
+    "lib/python3.9/site-packages/cffi/error.py",
+    "lib/python3.9/site-packages/cffi/ffiplatform.py",
+    "lib/python3.9/site-packages/cffi/lock.py",
+    "lib/python3.9/site-packages/cffi/model.py",
+    "lib/python3.9/site-packages/cffi/parse_c_type.h",
+    "lib/python3.9/site-packages/cffi/pkgconfig.py",
+    "lib/python3.9/site-packages/cffi/recompiler.py",
+    "lib/python3.9/site-packages/cffi/setuptools_ext.py",
+    "lib/python3.9/site-packages/cffi/vengine_cpy.py",
+    "lib/python3.9/site-packages/cffi/vengine_gen.py",
+    "lib/python3.9/site-packages/cffi/verifier.py"
+  ],
+  "fn": "cffi-1.14.3-py39h2125817_2.conda",
+  "legacy_bz2_md5": "1afeb20c04bc852d8445bb46866beafc",
+  "license": "MIT",
+  "link": {
+    "source": "/Users/rjara/miniconda3/pkgs/cffi-1.14.3-py39h2125817_2",
+    "type": 1
+  },
+  "md5": "24cb6e71f1ca1104e96f45a83342e418",
+  "name": "cffi",
+  "package_tarball_full_path": "/Users/rjara/miniconda3/pkgs/cffi-1.14.3-py39h2125817_2.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.9/site-packages/_cffi_backend.cpython-39-darwin.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/64b956eb-aec4-45ac-7ba6-1644ab7bdbb3/volume/cffi_1605538064078/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "499e0b9bc703eccd593b158c64ac8e23626b356cad8aa41c5b00d928728a436f",
+        "sha256_in_prefix": "f84308cd748a3555c06f84208befda104c9b0fc4a18828521cf167d5a9f1f337",
+        "size_in_bytes": 171408
+      },
+      {
+        "_path": "lib/python3.9/site-packages/cffi-1.14.3.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.9/site-packages/cffi-1.14.3.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "04b80f5b077bbed68808cfebadeb5e3523f2a8c9a96495c587bd96df1eac2a33",
+        "sha256_in_prefix": "04b80f5b077bbed68808cfebadeb5e3523f2a8c9a96495c587bd96df1eac2a33",
+        "size_in_bytes": 1294
+      },
+      {
+        "_path": "lib/python3.9/site-packages/cffi-1.14.3.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "48ec684e8f96da36f3f2a8fb5c72f6472dd285fa5b7a0e881f1edcad3b78351b",
+        "sha256_in_prefix": "48ec684e8f96da36f3f2a8fb5c72f6472dd285fa5b7a0e881f1edcad3b78351b",
+        "size_in_bytes": 1191
+      },
+      {
+        "_path": "lib/python3.9/site-packages/cffi-1.14.3.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "a7be79a8ebb96cc146334af23ad76523d4769008440cb89ad500ec1cda8704e5",
+        "sha256_in_prefix": "a7be79a8ebb96cc146334af23ad76523d4769008440cb89ad500ec1cda8704e5",
+        "size_in_bytes": 3066
+      },
+      {
+        "_path": "lib/python3.9/site-packages/cffi-1.14.3.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.9/site-packages/cffi-1.14.3.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "63baea6082d0304861269e8dcfea3d6b90720a8be19b4e69c690483d480c67ce",
+        "sha256_in_prefix": "63baea6082d0304861269e8dcfea3d6b90720a8be19b4e69c690483d480c67ce",
+        "size_in_bytes": 109
+      },
+      {
+        "_path": "lib/python3.9/site-packages/cffi-1.14.3.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "72cb3632ad519d9a7b0a8b1304b3739b683cac7ad399f7ec3b4f7ee9d2d217d7",
+        "sha256_in_prefix": "72cb3632ad519d9a7b0a8b1304b3739b683cac7ad399f7ec3b4f7ee9d2d217d7",
+        "size_in_bytes": 136
+      },
+      {
+        "_path": "lib/python3.9/site-packages/cffi-1.14.3.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "43d7f90bd2298d8c68d1dd8f2bd794727920c4773da475b08c431a00d3ca3422",
+        "sha256_in_prefix": "43d7f90bd2298d8c68d1dd8f2bd794727920c4773da475b08c431a00d3ca3422",
+        "size_in_bytes": 76
+      },
+      {
+        "_path": "lib/python3.9/site-packages/cffi-1.14.3.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "ac4ed6477ad97cd2b1588f7e8e7ea1b0708097b303901f859ae41bc568c57a14",
+        "sha256_in_prefix": "ac4ed6477ad97cd2b1588f7e8e7ea1b0708097b303901f859ae41bc568c57a14",
+        "size_in_bytes": 19
+      },
+      {
+        "_path": "lib/python3.9/site-packages/cffi/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "1d31418449fa0d83fee0702044604a0963d3f9ab8382e822e214979563b915ac",
+        "sha256_in_prefix": "1d31418449fa0d83fee0702044604a0963d3f9ab8382e822e214979563b915ac",
+        "size_in_bytes": 513
+      },
+      {
+        "_path": "lib/python3.9/site-packages/cffi/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "b009f820e994aadf0a8aeeb57099f1dc3c5b31967a439486849b30679bfd367e",
+        "sha256_in_prefix": "b009f820e994aadf0a8aeeb57099f1dc3c5b31967a439486849b30679bfd367e",
+        "size_in_bytes": 476
+      },
+      {
+        "_path": "lib/python3.9/site-packages/cffi/__pycache__/api.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "e4730236f6c00d1e12fcb468abea19743d5d058510c510b812170092d5041f3f",
+        "sha256_in_prefix": "e4730236f6c00d1e12fcb468abea19743d5d058510c510b812170092d5041f3f",
+        "size_in_bytes": 34319
+      },
+      {
+        "_path": "lib/python3.9/site-packages/cffi/__pycache__/backend_ctypes.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "b02f569077cd722059c5e7a0579719ad9a1064678aa45c306c86ba21cfe0da93",
+        "sha256_in_prefix": "b02f569077cd722059c5e7a0579719ad9a1064678aa45c306c86ba21cfe0da93",
+        "size_in_bytes": 39916
+      },
+      {
+        "_path": "lib/python3.9/site-packages/cffi/__pycache__/cffi_opcode.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "0802e9650535fe5b4acb7db05a10ae99b1bfc445bdab2361bbd9888359d66cd5",
+        "sha256_in_prefix": "0802e9650535fe5b4acb7db05a10ae99b1bfc445bdab2361bbd9888359d66cd5",
+        "size_in_bytes": 4712
+      },
+      {
+        "_path": "lib/python3.9/site-packages/cffi/__pycache__/commontypes.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "b87e0b826144f39f1a75f5198eebdca69511865ff6a1eeb55ca52c23f5baca83",
+        "sha256_in_prefix": "b87e0b826144f39f1a75f5198eebdca69511865ff6a1eeb55ca52c23f5baca83",
+        "size_in_bytes": 1857
+      },
+      {
+        "_path": "lib/python3.9/site-packages/cffi/__pycache__/cparser.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "67ccd7c8f60ee1abecf71a8be5981e8a68adfb22aeb4c78762287d4d30a3f1e9",
+        "sha256_in_prefix": "67ccd7c8f60ee1abecf71a8be5981e8a68adfb22aeb4c78762287d4d30a3f1e9",
+        "size_in_bytes": 23680
+      },
+      {
+        "_path": "lib/python3.9/site-packages/cffi/__pycache__/error.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "32403dda57f773b38dd9b1083723a703a120f1a1c8e18ba5dd88167fad667670",
+        "sha256_in_prefix": "32403dda57f773b38dd9b1083723a703a120f1a1c8e18ba5dd88167fad667670",
+        "size_in_bytes": 1477
+      },
+      {
+        "_path": "lib/python3.9/site-packages/cffi/__pycache__/ffiplatform.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "43ab521f1f840709462dafcf41940d5ddfd8203ea69128f514d3bee3b3bd05a7",
+        "sha256_in_prefix": "43ab521f1f840709462dafcf41940d5ddfd8203ea69128f514d3bee3b3bd05a7",
+        "size_in_bytes": 3534
+      },
+      {
+        "_path": "lib/python3.9/site-packages/cffi/__pycache__/lock.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "d4ecd0e559ce5dc45ca8573d797237eca772b116d5a1eac8620624d6bf4174c3",
+        "sha256_in_prefix": "d4ecd0e559ce5dc45ca8573d797237eca772b116d5a1eac8620624d6bf4174c3",
+        "size_in_bytes": 374
+      },
+      {
+        "_path": "lib/python3.9/site-packages/cffi/__pycache__/model.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "9f0df1d984037094da278d5282f05f25735d7910f8e4020d4008dd2f63080fea",
+        "sha256_in_prefix": "9f0df1d984037094da278d5282f05f25735d7910f8e4020d4008dd2f63080fea",
+        "size_in_bytes": 19716
+      },
+      {
+        "_path": "lib/python3.9/site-packages/cffi/__pycache__/pkgconfig.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "8b13d0ab1a238610411cc77c2df8528d12ba6a353f5d332ee6757115a8d5d1c5",
+        "sha256_in_prefix": "8b13d0ab1a238610411cc77c2df8528d12ba6a353f5d332ee6757115a8d5d1c5",
+        "size_in_bytes": 5112
+      },
+      {
+        "_path": "lib/python3.9/site-packages/cffi/__pycache__/recompiler.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "47b04ccae8d4bb24f396f2ff28d00a55205fd50144d6303d6e714eca13a4a57a",
+        "sha256_in_prefix": "47b04ccae8d4bb24f396f2ff28d00a55205fd50144d6303d6e714eca13a4a57a",
+        "size_in_bytes": 46765
+      },
+      {
+        "_path": "lib/python3.9/site-packages/cffi/__pycache__/setuptools_ext.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "635b28ecaf2a61cb3d96a09a83d1d7ac6e55a23bedb7e10157618c03e611cef2",
+        "sha256_in_prefix": "635b28ecaf2a61cb3d96a09a83d1d7ac6e55a23bedb7e10157618c03e611cef2",
+        "size_in_bytes": 7251
+      },
+      {
+        "_path": "lib/python3.9/site-packages/cffi/__pycache__/vengine_cpy.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "54f2c6fcdfcb0605c512e824a455bc613fb8dd87109bec6bb940e4a56d70a003",
+        "sha256_in_prefix": "54f2c6fcdfcb0605c512e824a455bc613fb8dd87109bec6bb940e4a56d70a003",
+        "size_in_bytes": 35437
+      },
+      {
+        "_path": "lib/python3.9/site-packages/cffi/__pycache__/vengine_gen.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "6efb75c38a3207076bca4cc9aadb08d4b19d7278944777f3b24360e92eb04934",
+        "sha256_in_prefix": "6efb75c38a3207076bca4cc9aadb08d4b19d7278944777f3b24360e92eb04934",
+        "size_in_bytes": 20974
+      },
+      {
+        "_path": "lib/python3.9/site-packages/cffi/__pycache__/verifier.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "b091f30ae3ea06f20bc5edc6e42dc2da4d54d9a4a5c370137e4d60018906319c",
+        "sha256_in_prefix": "b091f30ae3ea06f20bc5edc6e42dc2da4d54d9a4a5c370137e4d60018906319c",
+        "size_in_bytes": 9281
+      },
+      {
+        "_path": "lib/python3.9/site-packages/cffi/_cffi_errors.h",
+        "path_type": "hardlink",
+        "sha256": "ea7150fb8751408d5b5d1a127aa76fc8a537dd39aeb50241ff67c08564b3765f",
+        "sha256_in_prefix": "ea7150fb8751408d5b5d1a127aa76fc8a537dd39aeb50241ff67c08564b3765f",
+        "size_in_bytes": 3856
+      },
+      {
+        "_path": "lib/python3.9/site-packages/cffi/_cffi_include.h",
+        "path_type": "hardlink",
+        "sha256": "b4a9c0d6b752a0f1e9db71670cbd660c6c05a3e523e9f5df03abc0ea47281147",
+        "sha256_in_prefix": "b4a9c0d6b752a0f1e9db71670cbd660c6c05a3e523e9f5df03abc0ea47281147",
+        "size_in_bytes": 14800
+      },
+      {
+        "_path": "lib/python3.9/site-packages/cffi/_embedding.h",
+        "path_type": "hardlink",
+        "sha256": "63ad9665cdcb14db30dfb38a663dd9b3a15d2489e066df149939cce71ffb24ac",
+        "sha256_in_prefix": "63ad9665cdcb14db30dfb38a663dd9b3a15d2489e066df149939cce71ffb24ac",
+        "size_in_bytes": 17581
+      },
+      {
+        "_path": "lib/python3.9/site-packages/cffi/api.py",
+        "path_type": "hardlink",
+        "sha256": "cb125a94878f6ebd66cff5b1007a244b0c8fe4255875ee389be9e89479db24da",
+        "sha256_in_prefix": "cb125a94878f6ebd66cff5b1007a244b0c8fe4255875ee389be9e89479db24da",
+        "size_in_bytes": 42064
+      },
+      {
+        "_path": "lib/python3.9/site-packages/cffi/backend_ctypes.py",
+        "path_type": "hardlink",
+        "sha256": "879648ccb73a0455579c6c9cf713ea656512eea1b2ef21520ea5deebc49af33e",
+        "sha256_in_prefix": "879648ccb73a0455579c6c9cf713ea656512eea1b2ef21520ea5deebc49af33e",
+        "size_in_bytes": 42454
+      },
+      {
+        "_path": "lib/python3.9/site-packages/cffi/cffi_opcode.py",
+        "path_type": "hardlink",
+        "sha256": "bfd45d0ffa2f03cac2b6ab02f7922f922e55ebaeeb00e84682cddf6f6abdc693",
+        "sha256_in_prefix": "bfd45d0ffa2f03cac2b6ab02f7922f922e55ebaeeb00e84682cddf6f6abdc693",
+        "size_in_bytes": 5724
+      },
+      {
+        "_path": "lib/python3.9/site-packages/cffi/commontypes.py",
+        "path_type": "hardlink",
+        "sha256": "412e2ec420c8ec986d4f28e1d61967080fa0ca799ab335b125a4512c69096b50",
+        "sha256_in_prefix": "412e2ec420c8ec986d4f28e1d61967080fa0ca799ab335b125a4512c69096b50",
+        "size_in_bytes": 2689
+      },
+      {
+        "_path": "lib/python3.9/site-packages/cffi/cparser.py",
+        "path_type": "hardlink",
+        "sha256": "aceff5a442d1c35808d431359b8822da293924c7e9c68b800022d7a513e55440",
+        "sha256_in_prefix": "aceff5a442d1c35808d431359b8822da293924c7e9c68b800022d7a513e55440",
+        "size_in_bytes": 44231
+      },
+      {
+        "_path": "lib/python3.9/site-packages/cffi/error.py",
+        "path_type": "hardlink",
+        "sha256": "bfac53892e14d24bc3732e21fc10d1a39bf7f5942e8fe20c4582efe444dd759b",
+        "sha256_in_prefix": "bfac53892e14d24bc3732e21fc10d1a39bf7f5942e8fe20c4582efe444dd759b",
+        "size_in_bytes": 877
+      },
+      {
+        "_path": "lib/python3.9/site-packages/cffi/ffiplatform.py",
+        "path_type": "hardlink",
+        "sha256": "1cc5ea47c92cdb0b5db0dc46696a50fcfcaa22fb62ba8b3fbdfd6a282cbe7308",
+        "sha256_in_prefix": "1cc5ea47c92cdb0b5db0dc46696a50fcfcaa22fb62ba8b3fbdfd6a282cbe7308",
+        "size_in_bytes": 4046
+      },
+      {
+        "_path": "lib/python3.9/site-packages/cffi/lock.py",
+        "path_type": "hardlink",
+        "sha256": "97d4d37703083298ba8c39091a742013d72f4c847b0809ed209afc1061edde96",
+        "sha256_in_prefix": "97d4d37703083298ba8c39091a742013d72f4c847b0809ed209afc1061edde96",
+        "size_in_bytes": 747
+      },
+      {
+        "_path": "lib/python3.9/site-packages/cffi/model.py",
+        "path_type": "hardlink",
+        "sha256": "fc61ff505d519fdbc2e00be68099baaa3ed15175c6ddea8a3dcf1b3f1c7204a1",
+        "sha256_in_prefix": "fc61ff505d519fdbc2e00be68099baaa3ed15175c6ddea8a3dcf1b3f1c7204a1",
+        "size_in_bytes": 21768
+      },
+      {
+        "_path": "lib/python3.9/site-packages/cffi/parse_c_type.h",
+        "path_type": "hardlink",
+        "sha256": "39dc107f033d92dababe5081e377b11509b10c1b63d8c04d74af0b625d79b63c",
+        "sha256_in_prefix": "39dc107f033d92dababe5081e377b11509b10c1b63d8c04d74af0b625d79b63c",
+        "size_in_bytes": 5976
+      },
+      {
+        "_path": "lib/python3.9/site-packages/cffi/pkgconfig.py",
+        "path_type": "hardlink",
+        "sha256": "2cfd70eef996be62b0caa2da535676e3714e58635032b80c519aef805b8e95ca",
+        "sha256_in_prefix": "2cfd70eef996be62b0caa2da535676e3714e58635032b80c519aef805b8e95ca",
+        "size_in_bytes": 4374
+      },
+      {
+        "_path": "lib/python3.9/site-packages/cffi/recompiler.py",
+        "path_type": "hardlink",
+        "sha256": "5ed40dc64c57cf965ee4bcfe8fdc87663fc9219a9bb99cf8fd24c8381bf8b025",
+        "sha256_in_prefix": "5ed40dc64c57cf965ee4bcfe8fdc87663fc9219a9bb99cf8fd24c8381bf8b025",
+        "size_in_bytes": 64061
+      },
+      {
+        "_path": "lib/python3.9/site-packages/cffi/setuptools_ext.py",
+        "path_type": "hardlink",
+        "sha256": "454475ecde5ff20a624010655cbdf83fd16d3aed6684721a01fdd62658394b82",
+        "sha256_in_prefix": "454475ecde5ff20a624010655cbdf83fd16d3aed6684721a01fdd62658394b82",
+        "size_in_bytes": 8931
+      },
+      {
+        "_path": "lib/python3.9/site-packages/cffi/vengine_cpy.py",
+        "path_type": "hardlink",
+        "sha256": "62094df184be51a1c4bf6936731828b4d584f3b7475f6d3eebc1322a888a5180",
+        "sha256_in_prefix": "62094df184be51a1c4bf6936731828b4d584f3b7475f6d3eebc1322a888a5180",
+        "size_in_bytes": 43320
+      },
+      {
+        "_path": "lib/python3.9/site-packages/cffi/vengine_gen.py",
+        "path_type": "hardlink",
+        "sha256": "e5d5fbb350d4ea94c138c23aa13567ffc0679abbbf963f77d81e9be2fdbd1e58",
+        "sha256_in_prefix": "e5d5fbb350d4ea94c138c23aa13567ffc0679abbbf963f77d81e9be2fdbd1e58",
+        "size_in_bytes": 26684
+      },
+      {
+        "_path": "lib/python3.9/site-packages/cffi/verifier.py",
+        "path_type": "hardlink",
+        "sha256": "27d127cf6adb25bf421cfa96956439b90112a32af4b9cecc356ba07218d706fe",
+        "sha256_in_prefix": "27d127cf6adb25bf421cfa96956439b90112a32af4b9cecc356ba07218d706fe",
+        "size_in_bytes": 11207
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "0839a67d316270a02d23fe1c252c0d2dc08ba7d64214a17e3542ccb23904ac9f",
+  "size": 225325,
+  "subdir": "osx-64",
+  "timestamp": 1605538109130,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/cffi-1.14.3-py39h2125817_2.conda",
+  "version": "1.14.3"
+}
