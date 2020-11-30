@@ -17,29 +17,29 @@ date = pane.table.thead.text
 _, _, usd_c, usd_v, _, eur_c, eur_v, *others = rates.split()
 date= date.split()[0]
 
-# stablish a SQLite connection and save de data
+# stablish a SQLite connection and save the data
 
 print('... Connecting DB')
+
 connection = create_connection('./ratesDB')
 
 print('... Creating new table')
-try:
-    create_rates_table = """
-    CREATE TABLE rates (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    date TEXT NOT NULL UNIQUE,
-    usd_c REAL,
-    usd_v REAL,
-    eur_c REAL, 
-    eur_v REAL
-    );
-    """
-    execute_query(connection, create_rates_table)
-except:
-    print('... Table already exists, executing next step')
+
+create_rates_table = """
+CREATE TABLE rates (
+id INTEGER PRIMARY KEY AUTOINCREMENT,
+date TEXT NOT NULL UNIQUE,
+usd_c REAL,
+usd_v REAL,
+eur_c REAL, 
+eur_v REAL
+);
+"""
+execute_query(connection, create_rates_table)
 
 print('... Saving todays\' date and values in DB')
-save_rates = f"""
+
+save_rates = """
 INSERT INTO 
 rates (date, usd_c, usd_v, eur_c, eur_v)
 VALUES
